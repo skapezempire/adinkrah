@@ -1,4 +1,4 @@
-# adinkrah
+# Adinkrah
 STL files for 3D printing and modeling of Adinkrah symbols, book about Adinkrah and short videos of Ghanaian Adinkrah symbols
 KING Adinkra, an Ivorian King is the originator of Adinkra as it is believed that the king
  wore exceptional attire with well patterned symbolic ‘symbols’ which denotes special
